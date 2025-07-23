@@ -1,4 +1,3 @@
-Distributed Sentiment Inference with Ray and DistilBERT
 This repository contains two Python scripts that demonstrate distributed sentiment classification using Ray, Hugging Face Transformers, and the textattack/distilbert-base-uncased-imdb model:
 
 imdb_inference.py: Runs sentiment inference on a subset of the IMDb test dataset in parallel.
